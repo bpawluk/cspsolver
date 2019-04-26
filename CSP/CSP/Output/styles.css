@@ -1,0 +1,38 @@
+﻿body {
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+    border: none;
+}
+
+th, td {
+    border: 1px solid black;
+    height: 2em;
+    width: 2em;
+    padding: 0px;
+}
+
+th {
+    border: none;
+}
+
+.constraint {
+    border: none;
+    height: 1em;
+    width: 1em;
+}
+
+.rotate {
+    transform: rotate(90deg);
+}
