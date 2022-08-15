@@ -1,10 +1,12 @@
 # cspsolver
-Program rozwiązujący dowolny problem spełniania ograniczeń (CSP – Constraint Satisfaction Problem) metodą przeszukiwania przyrostowego z powracaniem (backtracking) oraz sprawdzania wprzód (forward checking).
+Simple app for solving Constraint Satisfaction Problems using backtracking and forward checking methods. 
 
-Działanie programu zademonstrowano na przykładzie dwóch gier logicznych – Futoshiki oraz Skyscraper. Program wczytuje odpowiednio przygotowane dane na temat plansz do rozwiązania, rozwiązuje je po czym zwraca wszystkie możliwe rozwiązania w formacie HTML.
+## Example program output for two logic games:
 
-Przykładowe rezultaty działania programu:
+## Skyscrapers
 
 ![Sky](https://github.com/bpawluk/cspsolver/blob/master/sky64.PNG?raw=true)
+
+## Futoshiki
 
 ![Futo](https://github.com/bpawluk/cspsolver/blob/master/futo71.PNG?raw=true)
